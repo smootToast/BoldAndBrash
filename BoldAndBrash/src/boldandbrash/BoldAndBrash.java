@@ -18,6 +18,7 @@ public class BoldAndBrash {
         System.out.println("This is just a test");
         Painting temp = new Painting(24);
         System.out.println(temp.getDimension());
+        System.out.println("What happens if this fails?");
         
     }
     
