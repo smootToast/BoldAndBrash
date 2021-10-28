@@ -5,15 +5,9 @@
  */
 package boldandbrash;
 
-/**
- *
- * @author thewa
- */
 public class BoldAndBrash {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         System.out.println("This is just a test");
         Painting temp = new Painting(24);
